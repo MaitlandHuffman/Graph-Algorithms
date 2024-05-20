@@ -1,4 +1,4 @@
-  This program implements various graph algorithms, including Minimum Spanning Tree (MST) using Prim's algorithm and Single-Source Shortest Path (SSSP) 
+This program implements various graph algorithms, including Minimum Spanning Tree (MST) using Prim's algorithm and Single-Source Shortest Path (SSSP) 
 using Dijkstra's and Bellman-Ford algorithms. 
 It reads a graph from an input file, performs the specified algorithms, and outputs the results.
 
@@ -46,4 +46,3 @@ verification passed
 
 Authors
 Maitland Huffman
-
